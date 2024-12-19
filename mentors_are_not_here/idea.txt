@@ -1,0 +1,30 @@
+multiply 1 , 1
+ 01 , left shift by 0 => 01
+
+multiply 1 , 2
+ 01 , left shift by 1 => 10
+
+multiply 1 , 3
+ 01 , left shift by 1 + left shift by 0 => 11
+ 
+multiply 1 , 4
+ 01 , left shift by 2 => 11
+
+multiply 1 , 5
+ 01 , left shift by 2 + left shift by 0 => 11
+ 
+multiply 1 , 6
+ 01 , left shift by 2 + left shift by 1 => 110
+
+multiply 1 , 7
+ 01 , left shift by 2 + left shift by 1 + left shift by 0 => 111
+
+multiply 1 , 8
+ 01 , left shift by 3 => 1000
+
+multiply 1 , 9
+ 01 , left shift by 3 + left shift by 0 => 1001
+
+
+ find min and max 
+ find the power of max 
